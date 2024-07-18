@@ -9,7 +9,7 @@ This directory contains three data files:
 - **val data:** The data provided by the task organizers for the validation portion of the dev phase.
 - **test data:** The data provided by the task organizers for the official submission phase.
 
-## Experiment
+## Experiments
 This directory contains the code for training and evaluating SHADOW on the dev and submission data.
 
 ## Figures
